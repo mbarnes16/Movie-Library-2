@@ -1,0 +1,17 @@
+E:\.Net Programming\Movie Library 2\bin\Debug\netcoreapp3.1\Movie Library 2.exe
+E:\.Net Programming\Movie Library 2\bin\Debug\netcoreapp3.1\Movie Library 2.deps.json
+E:\.Net Programming\Movie Library 2\bin\Debug\netcoreapp3.1\Movie Library 2.runtimeconfig.json
+E:\.Net Programming\Movie Library 2\bin\Debug\netcoreapp3.1\Movie Library 2.runtimeconfig.dev.json
+E:\.Net Programming\Movie Library 2\bin\Debug\netcoreapp3.1\Movie Library 2.dll
+E:\.Net Programming\Movie Library 2\bin\Debug\netcoreapp3.1\Movie Library 2.pdb
+E:\.Net Programming\Movie Library 2\bin\Debug\netcoreapp3.1\NLog.dll
+E:\.Net Programming\Movie Library 2\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+E:\.Net Programming\Movie Library 2\bin\Debug\netcoreapp3.1\NLog.Web.AspNetCore.dll
+E:\.Net Programming\Movie Library 2\obj\Debug\netcoreapp3.1\Movie Library 2.csprojAssemblyReference.cache
+E:\.Net Programming\Movie Library 2\obj\Debug\netcoreapp3.1\Movie Library 2.AssemblyInfoInputs.cache
+E:\.Net Programming\Movie Library 2\obj\Debug\netcoreapp3.1\Movie Library 2.AssemblyInfo.cs
+E:\.Net Programming\Movie Library 2\obj\Debug\netcoreapp3.1\Movie Library 2.csproj.CoreCompileInputs.cache
+E:\.Net Programming\Movie Library 2\obj\Debug\netcoreapp3.1\Movie Library 2.csproj.CopyComplete
+E:\.Net Programming\Movie Library 2\obj\Debug\netcoreapp3.1\Movie Library 2.dll
+E:\.Net Programming\Movie Library 2\obj\Debug\netcoreapp3.1\Movie Library 2.pdb
+E:\.Net Programming\Movie Library 2\obj\Debug\netcoreapp3.1\Movie Library 2.genruntimeconfig.cache
